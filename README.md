@@ -1,4 +1,5 @@
 # TunPi - Projeleri Platformu
+![{FDF826CD-C010-47C3-ABDB-075F25DA58BA}](https://github.com/user-attachments/assets/91249b86-a1cb-4098-beb9-e01fdf520af4)
 
 TunPi kullanıcıları için geliştirilmiş kapsamlı bir proje platformudur. Bu platform, Tun Pi ile yapılabilecek projeleri paylaşmak, öğrenmek ve topluluk oluşturmak için tasarlanmıştır.
 
